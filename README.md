@@ -5,7 +5,6 @@ A simple project analyzing retail sales data using **SQL**.
 ## 📂 Files
 - `SQL - Retail Sales Analysis_utf.csv` → Dataset  
 - `Retail sales analysis.sql` → SQL queries
-- 
 ## Problem Statement
 Retail businesses generate huge amounts of transaction data every day.  
 However, without proper analysis, this data remains unused and businesses miss valuable insights.  
